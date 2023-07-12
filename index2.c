@@ -1,6 +1,6 @@
 //Name-Payal dhakad
-//Assignment 2nd batch-2pm 26jun2
-//assignment 2nd,batch-2pm 26jun
+//Assignment 2nd batch-2pm 26june
+
 // 1 write a program to calculate factorial of any number;
 /*
 #include <stdio.h>
