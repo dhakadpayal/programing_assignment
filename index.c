@@ -1,3 +1,5 @@
+//Name-Payal Dhakad
+//Assignment 1st batch-2pm 26june
 /*
 //  1.explain c taken.
 One can define tokens in C as the smallest individual elements
